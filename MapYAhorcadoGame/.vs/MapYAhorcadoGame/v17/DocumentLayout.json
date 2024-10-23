@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmore\\OneDrive\\Escritorio\\Map_Y_Ahorcado_Game\\MapYAhorcadoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F75FD3-89EC-4293-8B5A-AFF51C33384A}|MapYAhorcadoGame\\MapYAhorcadoGame.vcxproj|C:\\Users\\lmore\\OneDrive\\Escritorio\\Map_Y_Ahorcado_Game\\MapYAhorcadoGame\\MapYAhorcadoGame\\MapYAhorcadoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76F75FD3-89EC-4293-8B5A-AFF51C33384A}|MapYAhorcadoGame\\MapYAhorcadoGame.vcxproj|solutionrelative:MapYAhorcadoGame\\MapYAhorcadoGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapYAhorcadoGame.cpp",
+              "DocumentMoniker": "C:\\Users\\lmore\\OneDrive\\Escritorio\\Map_Y_Ahorcado_Game\\MapYAhorcadoGame\\MapYAhorcadoGame\\MapYAhorcadoGame.cpp",
+              "RelativeDocumentMoniker": "MapYAhorcadoGame\\MapYAhorcadoGame.cpp",
+              "ToolTip": "C:\\Users\\lmore\\OneDrive\\Escritorio\\Map_Y_Ahorcado_Game\\MapYAhorcadoGame\\MapYAhorcadoGame\\MapYAhorcadoGame.cpp",
+              "RelativeToolTip": "MapYAhorcadoGame\\MapYAhorcadoGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T16:06:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
