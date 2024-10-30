@@ -1,9 +1,9 @@
 ﻿  MapYAhorcadoGame.cpp
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(72,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(87,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(196,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(211,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(321,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(336,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(9,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(80,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(96,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(219,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(234,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(344,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\MapYAhorcadoGame\MapYAhorcadoGame.cpp(354,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
   MapYAhorcadoGame.vcxproj -> C:\Users\lmore\OneDrive\Escritorio\Map_Y_Ahorcado_Game\MapYAhorcadoGame\x64\Debug\MapYAhorcadoGame.exe
